@@ -1,6 +1,7 @@
 # iCyberSecurity---Project-1---CS1C
 
 Prompt: 
+
 Your team is to write a program that creates an on-line pamphlet for iCyberSecurity Inc.  The company provides methodologies so organizations can detect, respond to, and contain advanced cyber security attacks.
 
 Your team must use inheritance and composition.   At least one class must contain a pointer (a copy constructor needs to be written and tested).   Highlight the above.  Your team is to write at least 10 agile stories (including description, tasks, test scenarios, and story points) before software is developed).  The team must follow the Scrum process (the Scrum master must log all team meetings and the product owner must document the backlog). Your team must use an agile management tool (e.g. Waffle.io), Graphical User Interface (GUI) such as QT, DOXYGEN, and GIT.    Only team members should have access to their repository.   
