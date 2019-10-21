@@ -28,22 +28,40 @@ SOURCES += \
         admin.cpp \
         createaccount.cpp \
         dbmanager.cpp \
+        entertestimonial.cpp \
+        help.cpp \
+        leavereview.cpp \
         main.cpp \
         mainwindow.cpp \
-        products.cpp
+        products.cpp \
+        requestph.cpp \
+        updateaccount.cpp \
+        yesno.cpp
 
 HEADERS += \
         admin.h \
         createaccount.h \
         dbmanager.h \
+        entertestimonial.h \
+        help.h \
+        leavereview.h \
         mainwindow.h \
-        products.h
+        products.h \
+        requestph.h \
+        updateaccount.h \
+        yesno.h
 
 FORMS += \
         admin.ui \
         createaccount.ui \
+        entertestimonial.ui \
+        help.ui \
+        leavereview.ui \
         mainwindow.ui \
-        products.ui
+        products.ui \
+        requestph.ui \
+        updateaccount.ui \
+        yesno.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
